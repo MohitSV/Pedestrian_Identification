@@ -3,7 +3,7 @@
 This project implements two different approaches for pedestrian detection:
 
 ## 1. Haar Cascade Classifier 🎯
-A machine learning based approach that uses cascade of simple features (Haar-like features) to detect objects. It works by:
+An Image Processing approach that uses cascade of simple features (Haar-like features) to detect objects. It works by:
 - Using rectangular regions at specific locations in a detection window
 - Summing up pixel intensities in each region
 - Calculating the difference between these sums
